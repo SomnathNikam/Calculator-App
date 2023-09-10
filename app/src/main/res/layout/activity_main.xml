@@ -129,7 +129,7 @@
             android:layout_marginLeft="25dp"
             android:backgroundTint="@color/black"
 
-            android:text="x"
+            android:text="X"
             android:textSize="35dp" />
 
 
@@ -277,18 +277,9 @@
             android:text="="
             android:textSize="35dp" />
 
-
-
     </LinearLayout>
 
-
-
-
-
 </LinearLayout>
-
-
-
 
 
 </RelativeLayout>
