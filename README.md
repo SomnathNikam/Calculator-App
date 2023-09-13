@@ -5,7 +5,12 @@
 ![Screenshot_2](https://github.com/SomnathNikam/Calculator-App/assets/117519166/5199bd52-222c-46f6-a5cc-46aa7c4aec65)
 ![Screenshot_3](https://github.com/SomnathNikam/Calculator-App/assets/117519166/88cd9af7-523a-4e62-ab4d-686e62396667)
 ![Screenshot_4](https://github.com/SomnathNikam/Calculator-App/assets/117519166/9ad7ba90-c963-4034-8f94-27be391511ad)
-![Screenshot_3](https://github.com/SomnathNikam/Calculator-App/assets/117519166/c33673d4-ad1f-4c53-a0f5-9e567e330893)
-![Screenshot_4](https://github.com/SomnathNikam/Calculator-App/assets/117519166/c0c5323e-e784-4e29-83cd-058a0a2953a5)
+
 ![Screenshot_1](https://github.com/SomnathNikam/Calculator-App/assets/117519166/06f89857-3a11-46bf-a389-01b0dd2116da)
 
+# Recording
+
+https://github.com/SomnathNikam/Calculator-App/assets/117519166/3fd6a9ee-8c8b-4d47-bfd8-32c3790d1d52
+
+#Installation
+Download the project either by git clone or download and extract the zip, then load the project in your Android Studio. You are free to do the modifications as your wish, You can even directly try app by installing in your phone, the apk file is in "Apk releases" folder, or you can get it by Clicking here.
