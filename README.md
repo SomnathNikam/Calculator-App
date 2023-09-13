@@ -13,4 +13,4 @@
 https://github.com/SomnathNikam/Calculator-App/assets/117519166/3fd6a9ee-8c8b-4d47-bfd8-32c3790d1d52
 
 # Installation
-Download the project either by git clone or download and extract the zip, then load the project in your Android Studio. You are free to do the modifications as your wish, You can even directly try app by installing in your phone, the apk file is in "Apk releases" folder, or you can get it by Clicking here<a href="https://github.com/SomnathNikam/Calculator-App/tree/master/Apk%20releases">.
+Download the project either by git clone or download and extract the zip, then load the project in your Android Studio. You are free to do the modifications as your wish, You can even directly try app by installing in your phone, the apk file is in "Apk releases" folder, or you can get it by<a href="https://github.com/SomnathNikam/Calculator-App/tree/master/Apk%20releases"> Clicking here</a>.
